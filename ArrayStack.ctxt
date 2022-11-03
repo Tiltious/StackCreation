@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=s
+comment0.target=ArrayStack(int)
+comment1.params=
+comment1.target=boolean\ isEmpty()
+comment2.params=
+comment2.target=boolean\ isFull()
+comment3.params=j
+comment3.target=void\ push(char)
+comment4.params=
+comment4.target=char\ pop()
+comment5.params=
+comment5.target=char\ peek()
+comment6.params=
+comment6.target=int\ top()
+numComments=7
